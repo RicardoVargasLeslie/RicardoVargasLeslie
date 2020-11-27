@@ -9,7 +9,7 @@
   <img src="/images/sss.PNG" alt="header"  height="400" height="250"/>
 </div>
 <p align="center"> Software Enginner @ <a href="https://github.com/Accenture">Accenture</a>e</p>
-<h2 align="center"> 👨‍💻 Me</h2>
+<h2 align="center"> 💻 Me</h2>
 <p align="center">
   <samp>I'm a certified SysAdmin & Junior software developer, passionate about technology seeking to learn the skills necessary to out put great code.
   </samp>
