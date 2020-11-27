@@ -12,7 +12,7 @@
   <samp>I'm a certified SysAdmin & Junior software developer, passionate about technology seeking to learn the skills necessary to out put great code.
   </samp>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/RicardoVargasLeslie" />
+  <img src="https://komarev.com/ghpvc/?username=RicardoVargasLeslie" alt="https://github.com/RicardoVargasLeslie" />
 </p>
 
 <hr>
