@@ -2,11 +2,13 @@
 **Ileriayo/ileriayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
 
-<h1 align="center"> 👋 </h1>
+<h1 align="center"> {
+"message":"Hi Im Ricki"
+} </h1>
 <div align="center">
-  <img src="/images/sss.PNG" alt="header"  height="400" height="300"/>
+  <img src="/images/sss.PNG" alt="header"  height="400" height="250"/>
 </div>
-<p align="center"> Software Enginner @ Accenture</p>
+<p align="center"> Software Enginner @ <a href="https://github.com/Accenture">Accenture</a>e</p>
 <h2 align="center"> 👨‍💻 Me</h2>
 <p align="center">
   <samp>I'm a certified SysAdmin & Junior software developer, passionate about technology seeking to learn the skills necessary to out put great code.
