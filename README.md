@@ -4,7 +4,7 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="/images/sss.png" alt="header"/>
+  <img src="/images/sss.PNG" alt="header"/>
 </div>
 <p align="center"> Software Enginner @ Accenture</p>
 <h2 align="center"> 👨‍💻 Me</h2>
