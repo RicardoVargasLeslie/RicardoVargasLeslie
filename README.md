@@ -8,10 +8,10 @@
 <div align="center">
   <img src="/images/sss.PNG" alt="header"  height="400" height="250"/>
 </div>
-<p align="center"> Software Engineer @ <a href="https://github.com/Accenture">Accenture</a></p>
+<p align="center"> Software Engineer @ <a href="https://github.com/IBM">IBM</a></p>
 <h2 align="center"> 💻 Me</h2>
 <p align="center">
-  <samp>I'm a certified SysAdmin & Junior software developer, passionate about technology seeking to learn the skills necessary to out put great code.
+  <samp>I'm a certified SysAdmin & Software developer, passionate about technology seeking to learn the skills necessary to out put great code.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=RicardoVargasLeslie" alt="https://github.com/RicardoVargasLeslie" />
