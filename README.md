@@ -27,8 +27,3 @@ domain knowledge, or offering expertise in various fields within the Hybrid Clou
   <a target="_blank"href="https://github.com/RicardoVargasLeslie"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 </p>
-
-
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
-
