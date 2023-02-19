@@ -21,9 +21,3 @@ domain knowledge, or offering expertise in various fields within the Hybrid Clou
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=RicardoVargasLeslie" alt="https://github.com/RicardoVargasLeslie" />
 </p>
-
-<h2 align="center">💬 find Me</h2>
-<p align="center" align='right'>
-  <a target="_blank"href="https://github.com/RicardoVargasLeslie"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
-</p>
