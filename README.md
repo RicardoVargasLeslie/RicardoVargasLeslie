@@ -12,7 +12,6 @@
   I Build Stuff
   </samp>
   <br> <br>
-  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RicardoVargasLeslie&theme=react&line_height=40&hide=css"/> </a>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=RicardoVargasLeslie" alt="https://github.com/RicardoVargasLeslie" />
 </p>
