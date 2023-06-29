@@ -12,6 +12,4 @@
   I Build Stuff
   </samp>
   <br> <br>
-  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=RicardoVargasLeslie" alt="https://github.com/RicardoVargasLeslie" />
 </p>
